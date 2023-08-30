@@ -1,0 +1,33 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+main {
+    width: 65%;
+    margin: 0 auto;
+    max-width: 1000px;
+    mmin-width: 430px
+}
+
+h1,
+h2 {
+    font-weight: 900;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+    border-radius: 5px;
+    background-color: #f0fff8;
+}
+
+td {
+    border: 1px solid #80ced6;
+    padding: 5px;
+}
+
+p,
+ul {
+    background-color: #f0fff8;
+    padding: 30px;
+    border: 1px solid #80ced6;
+    border-radius: 10px;
+}
